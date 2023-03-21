@@ -52,7 +52,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 120vh;
     overflow:hidden;
 }
 
@@ -73,7 +73,7 @@ header {
 
 .sec{
     position: relative;
-    /* margin-top: 50px; */
+    margin-top: -40px;
     background: #003329;
     padding: 100px;
     
